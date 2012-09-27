@@ -2,6 +2,8 @@
 scikit_learn_iris_exploration
 =============================
 
+Use scikit-learn's Logistic Regression and Support Vector Classifier to classify the iris dataset, includes plots of the 4 features for the iris data.
+
 Dependencies:
 - ipython 0.12 with notebook support
 - matplotlib
