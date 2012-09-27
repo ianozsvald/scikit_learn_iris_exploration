@@ -1,5 +1,12 @@
+=============================
 scikit_learn_iris_exploration
 =============================
+
+Dependencies:
+- ipython 0.12 with notebook support
+- matplotlib
+- sklearn 0.12
+
 
 To run the notebook:
 
